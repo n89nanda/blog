@@ -1,0 +1,4 @@
+baseURL = 'https://blog.nandabhat.com/'
+languageCode = 'en-us'
+title = 'Nanda Bhat blog'
+theme = 'hyde'

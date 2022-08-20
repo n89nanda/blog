@@ -1,0 +1,8 @@
+[submodule "nandabhatblog/nandabhat.github.io"]
+	path = nandabhatblog/nandabhat.github.io
+	url = https://github.com/n89nanda/nandabhat.github.io.git
+	branch = main
+[submodule "nandabhatblog/public"]
+	path = nandabhatblog/public
+	url = https://github.com/n89nanda/nandabhat.github.io.git
+	branch = main
