@@ -2,3 +2,13 @@ baseURL = 'https://blog.nandabhat.com/'
 languageCode = 'en-us'
 title = 'Nanda Bhat blog'
 theme = 'hyde'
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/n89nanda/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/nanda-b-949a9225/"}
+  ]
+
+[params]
+  description = "Personal blog"
+  themeColor = "theme-base-0f"
+  
