@@ -11,4 +11,5 @@ theme = 'hyde'
 [params]
   description = "Personal blog"
   themeColor = "theme-base-0f"
-  
+
+googleAnalytics = 'G-XJY3VMPK36'
