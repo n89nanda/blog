@@ -1,6 +1,6 @@
 baseURL = 'https://blog.nandabhat.com/'
 languageCode = 'en-us'
-title = 'Nanda Bhat blog'
+title = 'Nanda Bhat'
 theme = 'hyde'
 [Menus]
   main = [
