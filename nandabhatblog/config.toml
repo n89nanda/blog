@@ -1,6 +1,14 @@
 baseURL = 'https://blog.nandabhat.com/'
 languageCode = 'en-us'
+DefaultContentLanguage = "en"
 title = 'Nanda Bhat'
+paginate = 12
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+
 theme = 'hyde'
 [Menus]
   main = [
@@ -11,5 +19,11 @@ theme = 'hyde'
 [params]
   description = "Personal blog"
   themeColor = "theme-base-0f"
+  Description = "My Personal blog about all things software"
 
 googleAnalytics = 'G-XJY3VMPK36'
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
