@@ -2,7 +2,7 @@
 title: "How to create a blog using Hugo and Github Pages"
 date: 2022-08-20T17:36:21-04:00
 draft: false
-Description: "Create a blog using Hugo and Github Pages"
+Description: "Quick tutorial to build and deploy a hugo blog from scratch and host it for free using Github Pages"
 # canonical: 
 # Keywords: "hugo, github, githubpages, blog, markdown"
 keywords:
