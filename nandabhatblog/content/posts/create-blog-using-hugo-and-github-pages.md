@@ -2,6 +2,22 @@
 title: "How to create a blog using Hugo and Github Pages"
 date: 2022-08-20T17:36:21-04:00
 draft: false
+Description: "Create a blog using Hugo and Github Pages"
+# canonical: 
+# Keywords: "hugo, github, githubpages, blog, markdown"
+keywords:
+- hugo
+- hugo static site
+- hugo example
+- hugo github
+- blog GithubPages
+- markdown blog
+- hugo markdown
+- blog hosting
+- hugo pages custom domain
+- hugo sub domain https
+- tutorial
+- themes
 ---
 
 We will be building a blog from scratch using the amazing [Hugo](https://gohugo.io/) framework and deploying it for free using [Github Pages](https://pages.github.com/) with a custom subdomain!
